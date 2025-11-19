@@ -1,4 +1,4 @@
-name: CI/CD - JUnit + Docker Build & Push!
+name: CI/CD - JUnit + Docker Build & Push
 
 on:
   push:
